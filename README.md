@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Manthan&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Full+Stack+Developer+%7C+CSE+Undergraduate&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://github.com/manthan-x712/manthan-x712/blob/main/assets/header.png">
+<div align="center">
 
 <div align="center">
 

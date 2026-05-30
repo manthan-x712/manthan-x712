@@ -9,9 +9,9 @@
 
 </div>
 
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
+<div align="left">
+  
 ## 👋 About Me
 
 Hi, I'm **Manthan** — a Computer Science Engineering undergraduate aspiring to become a **Full Stack Software Engineer** with a strong interest in building complete, end-to-end web applications.
@@ -26,14 +26,12 @@ I use GitHub as a **learning workspace**, where I practice technologies from the
 
 My long-term goal is to grow into a **reliable full stack engineer** by mastering both client and server fundamentals before scaling into complex distributed systems.
 
-
 📌 **Areas of interest:** Frontend development, backend systems, cloud deployment  
 📌 **Approach:** Fundamentals first · End-to-end thinking · Continuous improvement
 
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
 ## 🛠️ Tech Stack & Tools
+</div>
 
 <div align="center">
 
